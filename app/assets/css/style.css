@@ -1,0 +1,15 @@
+html, body{
+    height: 100%;
+	background-color: black;
+	color: rgb(177, 175 , 175);
+}
+
+* {
+	font-family: 'Anonymous Pro', monospace;
+	font-weight: bolder;
+	font-size: 16px;
+}
+
+*:focus {
+    outline: none;
+}
